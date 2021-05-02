@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineering Student, Web Developer, UI Designer.
 
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently learning Spring boot 
 - 👯 I’m looking to collaborate with other creators
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Quote: Everyday is a second chance !
